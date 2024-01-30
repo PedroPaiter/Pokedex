@@ -10,7 +10,7 @@
 
 body {
     text-align: center;
-    background-color: linear-gradient(to bottom, #6ab7f5, #fff);
+    background-color: linear-gradient(#6ab7f5, #fff);
     min-height: 100vh;
 }
 
